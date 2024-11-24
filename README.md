@@ -6,7 +6,6 @@ Generates random colors dynamically.
 </br>
 Provides a fun, interactive way to explore color combinations.
 <h2>How to Use:</h2>
-
 Clone the repository.
 Open the rgb.html or hex.html file in a browser.</br>
 Click the button to change the background color.</br>

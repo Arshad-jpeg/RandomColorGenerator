@@ -10,9 +10,7 @@ document.querySelector(".js-random-bg-btn").addEventListener("click",()=>{
 
 
 resetBtn.addEventListener("click",()=>{
-  document.getElementById("bg-color").style.backgroundColor='lightblue';
+  document.getElementById("bg-color").style.backgroundColor='lightpink';
 
-  bgName.innerHTML=`Background Color : Light blue`;
+  bgName.innerHTML=`Background Color : Light pink`;
 })
-
-
