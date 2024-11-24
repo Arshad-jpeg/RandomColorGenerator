@@ -1,5 +1,4 @@
-<h1>This is a simple project that generates random background colors with each click. Built using HTML, CSS, and JavaScript, it showcases fundamental concepts of web development.
-</h1>
+# This is a simple project that generates random background colors with each click. Built using HTML, CSS, and JavaScript, it showcases fundamental concepts of web development.
 <h2>Features:</h2>
 
 Generates random colors dynamically.
